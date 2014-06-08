@@ -1,7 +1,5 @@
-{
-    "allowed": [
-            "Plancke",
-            "hackstar8",
-            "waterbeat",
-        ]
-}
+[
+    "Plancke",
+    "hackstar8",
+    "waterbeat",
+]
