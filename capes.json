@@ -1,10 +1,9 @@
 {
     "GuildMaster": {
-        "capeUrl": "http://www.example.com/group1_cape.png",
+        "capeUrl": "https://dl.dropboxusercontent.com/u/37443722/PainBall/cape.png",
         "users": [
             "Plancke",
             "hackstar8"
         ]
-    },
-    "Captain_Shadows": "http://www.example.com/captain_cape.png"
+    }
 }
