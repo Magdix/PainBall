@@ -14,7 +14,21 @@
     },
     "Member": {
         "capeUrl": "https://dl.dropboxusercontent.com/u/37443722/PainBall/cape.png",
-        "users": []
+        "users": [
+            "atl15",
+            "Fontn",
+            "Ted_ick",
+            "Squealer99",
+            "acubens71",
+            "zergui",
+            "tiehm",
+            "E_Killen",
+            "YannBebe",
+            "WackyLeo",
+            "Drakey131",
+            "mathematician123",
+            "Dykle"
+        ]
     },
     "Other": {
         "capeUrl": "https://dl.dropboxusercontent.com/u/37443722/PainBall/cape.png",
@@ -23,7 +37,7 @@
             "ClaireGaming", 
             "eKimchi",
             "TehFlameGuy",
-            "LoenlyFatKid"
+            "LonelyFatKid"
         ]
     }
 }
