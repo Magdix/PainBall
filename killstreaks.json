@@ -1,18 +1,18 @@
 {
     "ForceField": [
-        "15 + PainBall.enduranceLevel",
+        "15 + ENDURANCE",
         70
     ],
     "TripleShot": [
-        "30 + PainBall.enduranceLevel",
+        "30 + ENDURANCE",
         0
     ],
     "StrongArm": [
-        "30 + PainBall.enduranceLevel",
+        "30 + ENDURANCE",
         0
     ],
     "SuperStrongArm": [
-        "30 + PainBall.enduranceLevel",
+        "30 + ENDURANCE",
         0
     ],
     "Lightning": [
