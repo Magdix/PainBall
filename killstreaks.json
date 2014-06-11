@@ -1,15 +1,54 @@
 {
-    "ForceField": ["15 + PainBall.enduranceLevel", 70],
-    "TripleShot": ["30 + PainBall.enduranceLevel", 0],
-    "StrongArm": ["30 + PainBall.enduranceLevel", 0],
-    "SuperStrongArm": ["30 + PainBall.enduranceLevel", 0],
-    "Lightning": [0, 30],
-    "CreeperHead": [0, 0],
-    "Flashbang": [0, 0],
-    "TNTRain": [0, 0],
-    "+10": [0, 0],
-    "+3": [0, 0],
-    "EnderPearl": [0, 0],
-    "Nuke": [0, 60],
-    "Hat":[5, 65]
+    "ForceField": [
+        "15 + PainBall.enduranceLevel",
+        70
+    ],
+    "TripleShot": [
+        "30 + PainBall.enduranceLevel",
+        0
+    ],
+    "StrongArm": [
+        "30 + PainBall.enduranceLevel",
+        0
+    ],
+    "SuperStrongArm": [
+        "30 + PainBall.enduranceLevel",
+        0
+    ],
+    "Lightning": [
+        0,
+        30
+    ],
+    "CreeperHead": [
+        0,
+        0
+    ],
+    "Flashbang": [
+        0,
+        0
+    ],
+    "TNTRain": [
+        0,
+        0
+    ],
+    "+10": [
+        0,
+        0
+    ],
+    "+3": [
+        0,
+        0
+    ],
+    "EnderPearl": [
+        0,
+        0
+    ],
+    "Nuke": [
+        0,
+        60
+    ],
+    "Hat": [
+        5,
+        65
+    ]
 }
