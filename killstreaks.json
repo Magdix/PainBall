@@ -1,0 +1,29 @@
+{
+    "GuildMaster": {
+        "capeUrl": "https://dl.dropboxusercontent.com/u/37443722/PainBall/cape.png",
+        "users": [
+            "Plancke",
+            "hackstar8",
+        ]
+    },
+    "Officer": {
+        "capeUrl": "https://dl.dropboxusercontent.com/u/37443722/PainBall/cape.png",
+        "users": [
+            "waterbeat",
+        ]
+    },
+    "Member": {
+        "capeUrl": "https://dl.dropboxusercontent.com/u/37443722/PainBall/cape.png",
+        "users": []
+    },
+    "Other": {
+        "capeUrl": "https://dl.dropboxusercontent.com/u/37443722/PainBall/cape.png",
+        "users": [
+            "Riyokei", 
+            "ClaireGaming", 
+            "eKimchi",
+            "TehFlameGuy",
+            "LoenlyFatKid"
+        ]
+    }
+}
