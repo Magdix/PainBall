@@ -9,16 +9,15 @@
     "Officer": {
         "capeUrl": "https://dl.dropboxusercontent.com/u/37443722/PainBall/cape.png",
         "users": [
-            "waterbeat"
+            "waterbeat",
+            "Squealer99""
         ]
     },
     "Member": {
         "capeUrl": "https://dl.dropboxusercontent.com/u/37443722/PainBall/cape.png",
         "users": [
             "atl15",
-            "Fontn",
             "Ted_ick",
-            "Squealer99",
             "acubens71",
             "zergui",
             "tiehm",
@@ -33,12 +32,7 @@
     "Other": {
         "capeUrl": "https://dl.dropboxusercontent.com/u/37443722/PainBall/cape.png",
         "users": [
-            "Riyokei", 
-            "ClaireGaming", 
-            "eKimchi",
-            "TehFlameGuy",
-            "LonelyFatKid",
-            "JoelyMo101"
+            "LonelyFatKid"
         ]
     }
 }
