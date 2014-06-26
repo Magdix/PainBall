@@ -2,18 +2,12 @@
     "Guild Master": {
         "users": [
             "Plancke",
-        ],
-        "games": [
-            "*"
         ]
     },
     "Officer": {
         "users": [
             "Squealer99",
             "E_killen"
-        ],
-        "games": [
-            "*"
         ]
     },
     "PainBaller": {
@@ -27,9 +21,6 @@
             "atl15",
             "Draco5359",
             "Costicula"
-        ],
-        "games": [
-            "*"
         ]
     },
     "Default": {
@@ -50,9 +41,6 @@
             "hypixel",
             "kevinkool",
             "Rezzus"
-        ],
-        "games": [
-            "*"
         ]
     }
 }
