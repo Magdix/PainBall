@@ -1,37 +1,62 @@
 {
     "Guild Master": [
-        "Plancke",
+        "users": [
+            "Plancke",
+        ],
         "games": [
-          "*"
-        ]
+            "*"
+        ],
+        "display": true
     ],
     "Officer": [
-       "Squealer99",
-       "E_killen"
+        "users": [
+            "Squealer99",
+            "E_killen"
+        ],
+        "games": [
+            "*"
+        ],
+        "display": true
     ],
     "PainBaller": [
-        "Ted_ick",
-        "acubens71",
-        "zergui",
-        "YannBebe",
-        "WackyLeo",
-        "Drakey131",
-        "mathematician123",
-        "atl15",
-        "Draco5359"
+        "users": [
+            "Ted_ick",
+            "acubens71",
+            "zergui",
+            "YannBebe",
+            "WackyLeo",
+            "Drakey131",
+            "mathematician123",
+            "atl15",
+            "Draco5359"
+        ],
+        "games": [
+            "*"
+        ],
+        "display": true
     ],
-    "Rank": [
-        "cedrik1995",
-        "DwD_Flare"
-    ],
-    "Awesome": [
-        "LonelyFatKid",
-        "JoelyMo101",
-        "Fontn"
+    "Default": [
+        "users": [
+            "cedrik1995",
+            "DwD_Flare",
+            "LonelyFatKid",
+            "JoelyMo101",
+            "Fontn"
+        ],
+        "games": [
+            "Paintball"
+        ],
+        "display": false
     ],
     "Hypixel Admin": [
-        "hypixel",
-        "kevinkool",
-        "Rezzus"
+        "users": [
+            "hypixel",
+            "kevinkool",
+            "Rezzus"
+        ],
+        "games": [
+            "*"
+        ],
+        "display": true
     ]
 }
