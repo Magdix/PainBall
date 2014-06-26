@@ -5,7 +5,7 @@
         ],
         "games": [
             "*"
-        ], "display": false
+        ]
     },
     "Officer": {
         "users": [
