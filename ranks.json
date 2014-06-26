@@ -5,8 +5,7 @@
         ],
         "games": [
             "*"
-        ],
-        "display": false
+        ]
     },
     "Officer": {
         "users": [
@@ -15,8 +14,7 @@
         ],
         "games": [
             "*"
-        ],
-        "display": true
+        ]
     },
     "PainBaller": {
         "users": [
@@ -32,8 +30,7 @@
         ],
         "games": [
             "*"
-        ],
-        "display": true
+        ]
     },
     "Default": {
         "users": [
@@ -56,7 +53,6 @@
         ],
         "games": [
             "*"
-        ],
-        "display": true
+        ]
     }
 }
