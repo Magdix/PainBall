@@ -1,5 +1,5 @@
 {
-    "Guild Master": [
+    "Guild Master": {
         "users": [
             "Plancke",
         ],
@@ -7,8 +7,8 @@
             "*"
         ],
         "display": true
-    ],
-    "Officer": [
+    },
+    "Officer": {
         "users": [
             "Squealer99",
             "E_killen"
@@ -17,8 +17,8 @@
             "*"
         ],
         "display": true
-    ],
-    "PainBaller": [
+    },
+    "PainBaller": {
         "users": [
             "Ted_ick",
             "acubens71",
@@ -34,8 +34,8 @@
             "*"
         ],
         "display": true
-    ],
-    "Default": [
+    },
+    "Default": {
         "users": [
             "cedrik1995",
             "DwD_Flare",
@@ -47,8 +47,8 @@
             "Paintball"
         ],
         "display": false
-    ],
-    "Hypixel Admin": [
+    },
+    "Hypixel Admin": {
         "users": [
             "hypixel",
             "kevinkool",
@@ -58,5 +58,5 @@
             "*"
         ],
         "display": true
-    ]
+    }
 }
