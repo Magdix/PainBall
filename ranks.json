@@ -6,7 +6,7 @@
         "games": [
             "*"
         ],
-        "display": true
+        "display": false
     },
     "Officer": {
         "users": [
