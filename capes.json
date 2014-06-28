@@ -4,7 +4,8 @@
         "users": [
             "Plancke"
         ],
-        "animated": true
+        "animated": true,
+        "interval": 15
     },
     "Officer": {
         "capeUrl": "https://dl.dropboxusercontent.com/u/37443722/PainBall/cape.png",
