@@ -8,7 +8,7 @@
         "users": [
             "Squealer99",
             "E_killen"
-        ]
+        ], "allowed": false
     },
     "PainBaller": {
         "users": [
@@ -21,7 +21,7 @@
             "atl15",
             "Draco5359",
             "Costicula"
-        ]
+        ], "allowed": false
     },
     "Default": {
         "users": [
@@ -34,7 +34,7 @@
         "games": [
             "Paintball"
         ],
-        "display": false
+        "display": false, "allowed": false
     },
     "Hypixel Admin": {
         "users": [
