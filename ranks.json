@@ -40,8 +40,12 @@
         "users": [
             "hypixel",
             "kevinkool",
-            "Rezzus",
-            "DoranKnoll"
+            "Rezzus"
+        ]
+    }
+    "Doran": {
+        "users": [
+            "DoranKnoll"    
         ]
     }
 }
