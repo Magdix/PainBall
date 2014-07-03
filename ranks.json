@@ -46,6 +46,7 @@
     "Doran": {
         "users": [
             "DoranKnoll"    
-        ]
+        ],
+        "display": false
     }
 }
