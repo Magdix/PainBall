@@ -3,6 +3,21 @@
         "capeUrl": "https://dl.dropboxusercontent.com/u/37443722/PainBall/cape.png",
         "users": [
             "Plancke"
+        ],
+        "animated": true,
+        "interval": 15,
+        "frames": [
+            "http://images.mccapes.com/capes/anim/cjz__/1+cjz__.png",
+            "http://images.mccapes.com/capes/anim/cjz__/2+cjz__.png",
+            "http://images.mccapes.com/capes/anim/cjz__/3+cjz__.png",
+            "http://images.mccapes.com/capes/anim/cjz__/4+cjz__.png",
+            "http://images.mccapes.com/capes/anim/cjz__/5+cjz__.png",
+            "http://images.mccapes.com/capes/anim/cjz__/6+cjz__.png",
+            "http://images.mccapes.com/capes/anim/cjz__/7+cjz__.png",
+            "http://images.mccapes.com/capes/anim/cjz__/8+cjz__.png",
+            "http://images.mccapes.com/capes/anim/cjz__/9+cjz__.png",
+            "http://images.mccapes.com/capes/anim/cjz__/10+cjz__.png",
+            "http://images.mccapes.com/capes/anim/cjz__/11+cjz__.png"
         ]
     },
     "Officer": {
