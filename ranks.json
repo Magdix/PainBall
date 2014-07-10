@@ -2,7 +2,11 @@
     "Guild Master": {
         "users": [
             "Plancke",
-        ], "display": false
+        ],
+        "extra": {
+            "permissions": [ "*" ]
+        }, 
+        "display": false
     },
     "Officer": {
         "users": [
