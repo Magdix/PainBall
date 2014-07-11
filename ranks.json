@@ -9,7 +9,7 @@
         "users": [
             "Squealer99",
             "E_killen"
-        ], "allowed": false
+        ]
     },
     "PainBaller": {
         "users": [
@@ -18,11 +18,10 @@
             "zergui",
             "WackyLeo",
             "Drakey131",
-            "mathematician123",
             "atl15",
             "Draco5359",
             "Costicula"
-        ], "allowed": false
+        ]
     },
     "Default": {
         "users": [
