@@ -9,7 +9,8 @@
         "users": [
             "Squealer99",
             "E_killen"
-        ]
+        ],
+        "display": false
     },
     "PainBaller": {
         "users": [
@@ -27,7 +28,8 @@
             "_CaptainAlpha_",
             "chefcole03",
             "eaglewar100"
-        ]
+        ],
+        "display": false
     },
     "Default": {
         "users": [
