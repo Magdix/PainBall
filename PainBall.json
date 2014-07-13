@@ -1,17 +1,14 @@
 {
     "latestVersion": "Alpha-1.1",
     "Guild": {
-        "Guild Master": {
-            "Plancke": {
-                "name": "Plancke",
-                "Rank": 1
-            }
-        },
-        "Officers": {
+        "Guild Master": [
+            "Plancke"
+        ],
+        "Officers": [
             "Squealer99",
             "E_killen"
-        },
-        "Members": {
+        ],
+        "Members": [
             "acubens71",
             "zergui",
             "WackyLeo",
@@ -25,6 +22,6 @@
             "chefcole03",
             "_CaptainAlpha_",
             "eaglewar100"
-      }
+      ]
     }
 }
