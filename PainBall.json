@@ -1,31 +1,30 @@
 {
-  "latestVersion": "Alpha-1.1",
-  
-  "Guild": {
-    "Guild Master": [
-      "Plancke": {
-        "name": "Plancke",
-        "Rank": 1
+    "latestVersion": "Alpha-1.1",
+    "Guild": {
+        "Guild Master": {
+            "Plancke": {
+                "name": "Plancke",
+                "Rank": 1
+            }
+        },
+        "Officers": {
+            "Squealer99",
+            "E_killen"
+        },
+        "Members": {
+            "acubens71",
+            "zergui",
+            "WackyLeo",
+            "Drakey131",
+            "atl15",
+            "Draco5359",
+            "Tiffcam06",
+            "Costicula",
+            "Planes_cars",
+            "grog36",
+            "chefcole03",
+            "_CaptainAlpha_",
+            "eaglewar100"
       }
-    ],
-    "Officers": [
-      "Squealer99",
-      "E_killen"
-    ],
-    "Members": [
-      "acubens71",
-      "zergui",
-      "WackyLeo",
-      "Drakey131",
-      "atl15",
-      "Draco5359",
-      "Tiffcam06",
-      "Costicula",
-      "Planes_cars",
-      "grog36",
-      "chefcole03",
-      "_CaptainAlpha_",
-      "eaglewar100"
-    ]
-  }
+    }
 }
