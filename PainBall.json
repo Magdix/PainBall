@@ -3,7 +3,10 @@
   
   "Guild": {
     "Guild Master": [
-      "Plancke"
+      "Plancke": {
+        "name": "Plancke",
+        "Rank": 1
+      }
     ],
     "Officers": [
       "Squealer99",
