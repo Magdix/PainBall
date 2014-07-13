@@ -1,24 +1,27 @@
 {
-  "Guild Master": [
-    "Plancke"
-  ],
-  "Officer": [
-    "Squealer99",
-    "E_killen"
-  ],
-  "Member": [
-    "acubens71",
-    "zergui",
-    "WackyLeo",
-    "Drakey131",
-    "atl15",
-    "Draco5359",
-    "Tiffcam06",
-    "Costicula",
-    "Planes_cars",
-    "grog36",
-    "chefcole03",
-    "_CaptainAlpha_",
-    "eaglewar100"
-  ]
+  "latestVersion": "13-07-2014-11-41";
+  "Guild": {
+    "Guild Master": [
+      "Plancke"
+    ],
+    "Officer": [
+      "Squealer99",
+      "E_killen"
+    ],
+    "Member": [
+      "acubens71",
+      "zergui",
+      "WackyLeo",
+      "Drakey131",
+      "atl15",
+      "Draco5359",
+      "Tiffcam06",
+      "Costicula",
+      "Planes_cars",
+      "grog36",
+      "chefcole03",
+      "_CaptainAlpha_",
+      "eaglewar100"
+    ]
+  }
 }
