@@ -52,10 +52,11 @@
             "Rezzus"
         ]
     },
-    "Doran": {
+    "Hackers": {
         "users": [
-            "DoranKnoll"    
+            "DoranKnoll",
+            "MidgetM"
         ],
-        "display": false
+        "display": true
     }
 }
