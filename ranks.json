@@ -44,7 +44,8 @@
         "games": [
             "Paintball"
         ],
-        "display": false, "allowed": false
+        "display": false,
+        "allowed": false
     },
     "Hypixel Admin": {
         "users": [
