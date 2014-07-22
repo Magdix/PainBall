@@ -67,5 +67,14 @@
             "BadMtf69"
         ],
         "display": false
+    },
+    "*": {
+        "users": [ 
+            "*" 
+        ],
+        "settings": {
+            "allowed": false
+        }
+        
     }
 }
