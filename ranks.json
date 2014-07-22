@@ -73,7 +73,8 @@
             "*" 
         ],
         "settings": {
-            "allowed": false
+            "allowed": false,
+            "display": true
         }
         
     }
