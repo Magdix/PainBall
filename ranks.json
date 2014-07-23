@@ -9,8 +9,7 @@
         "users": [
             "Squealer99",
             "E_killen"
-        ],
-        "display": false
+        ]
     },
     "PainBaller": {
         "users": [
@@ -31,8 +30,7 @@
             "ClaireGaming",
             "orangecharchar",
             "GrailMore"
-        ],
-        "display": false
+        ]
     },
     "Default": {
         "users": [
@@ -44,9 +42,7 @@
         ],
         "games": [
             "Paintball"
-        ],
-        "display": false,
-        "allowed": false
+        ]
     },
     "Hypixel Admin": {
         "users": [
