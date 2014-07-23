@@ -3,7 +3,10 @@
         "users": [
             "Plancke"
         ],
-        "display": false
+        "display": false,
+        "settings": {
+            "display": true
+        }
     },
     "Officer": {
         "users": [
