@@ -2,10 +2,7 @@
     "Guild Master": {
         "users": [
             "Plancke"
-        ],
-        "settings": {
-            "messages": "HELLO===PLANCKE"
-        }
+        ]
     },
     "Officer": {
         "users": [
@@ -17,7 +14,6 @@
         "users": [
             "acubens71",
             "zergui",
-            "Drakey131",
             "atl15",
             "Draco5359",
             "Tiffcam06",
@@ -46,6 +42,14 @@
             "Paintball"
         ]
     },
+    "GrailMore": {
+        "users": [
+            "GrailMore"
+        ],
+        "settings": {
+            "messages": "Hey there"
+        }
+    }
     "Hypixel Admin": {
         "users": [
             "hypixel",
