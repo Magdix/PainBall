@@ -2,11 +2,7 @@
     "Guild Master": {
         "users": [
             "Plancke"
-        ],
-        "display": false,
-        "settings": {
-            "display": true
-        }
+        ]
     },
     "Officer": {
         "users": [
@@ -58,13 +54,11 @@
         "users": [
             "DoranKnoll",
             "MidgetM"
-        ],
-        "display": false
+        ]
     },
     "Other": {
         "users": [
             "BadMtf69"
-        ],
-        "display": false
+        ]
     }
 }
