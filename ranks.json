@@ -2,7 +2,10 @@
     "Guild Master": {
         "users": [
             "Plancke"
-        ]
+        ],
+        "settings": {
+            "messages": "HELLO===PLANCKE"
+        }
     },
     "Officer": {
         "users": [
