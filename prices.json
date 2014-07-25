@@ -1,6 +1,12 @@
 {
-    "endurance": 7500,
-    "godfather": 5000,
+    "endurance": {
+        "increment": 7500,
+        "max": 50
+    },
+    "godfather": {
+        "increment": 5000,
+        "max": 100
+    },
     "superluck": [
         250,
         500,
