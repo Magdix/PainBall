@@ -51,6 +51,87 @@
         100000,
         200000
     ],
+    "killstreaks": {
+        "Flashbang": {
+            "desc": "A smoke grenade with an area of effect.",
+            "cost": 2500
+        },
+        "Tripleshot": {
+            "desc": "Throw three balls at once.",
+            "cost": 2500
+        },
+        "Strongarm": {
+            "desc": "Throw more snowballs faster",
+            "cost": 0,
+            "killcoins": 4
+        },
+        "+3": {
+            "desc": " Regain 3 lives for your team",
+            "cost": 0,
+            "killcoins": 5
+        },
+        "Creeper Head": {
+            "desc": "Spawn creepers to fight for you",
+            "cost": 2500
+        },
+        "RAMBO": {
+            "desc": " Respawn instantly with no loss of lives",
+            "cost": 0,
+            "killcoins": 10
+        },
+        "TNTRain": {
+            "desc": "Rain TNT down on your enemies.",
+            "cost": 2500
+        },
+        "+10": {
+            "desc": "Regain 10 lives for your team.",
+            "cost": 2500
+        },
+        "Nuke": {
+            "desc": "Destroys the enemy team with 100% accuracy",
+            "cost": 5500
+        },
+        "Ammo": {
+            "desc": " Get a stack of 32 snowballs",
+            "cost": 0,
+            "killcoins": 3
+        },
+        "LEEROY JENKINS": {
+            "desc": "Spawn 30 chickens on the enemy spawn",
+            "cost": 0,
+            "killcoins": 5
+        },
+        "Super Strong Arm": {
+            "desc": "A stronger variant of strongarm",
+            "cost": 2500
+        },
+        "Team Ammo": {
+            "desc": "32 paintballs for everyone in your team",
+            "cost": 0,
+            "killcoins": 10
+        },
+        "Revenge": {
+            "desc": "Kills the player who killed you last",
+            "cost": 0,
+            "killcoins": 10
+        },
+        "Lightning": {
+            "desc": "Strike down enemies within 10 blocks",
+            "cost": 2500
+        },
+        "Enderpearl": {
+            "desc": "Teleport to where you last died.",
+            "cost": 2500
+        },
+        "Endereye": {
+            "desc": "Swap places with a random enemy.",
+            "cost": 2500
+        },
+        "Forcefield": {
+            "desc": "Reflect paintballs for 15 seconds",
+            "cost": 6500
+        }
+    },
     "hats": {
         "TNT": {
             "cost": 4200
