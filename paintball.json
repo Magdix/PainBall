@@ -5,7 +5,7 @@
     },
     "godfather": {
         "increment": 5000,
-        "max": 100
+        "max": 50
     },
     "superluck": [
         250,
