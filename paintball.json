@@ -1,5 +1,5 @@
 {
-    "perks" {
+    "perks": {
         "endurance": {
             "increment": 7500,
             "max": 50
