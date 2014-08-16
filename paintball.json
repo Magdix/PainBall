@@ -1,14 +1,14 @@
 {
     "perks": {
-        "endurance": {
+        "Endurance": {
             "increment": 7500,
             "max": 50
         },
-        "godfather": {
+        "Godfather": {
             "increment": 5000,
             "max": 50
         },
-        "superluck": [
+        "Superluck": [
             250,
             500,
             750,
@@ -30,7 +30,7 @@
             17500,
             20000
         ],
-        "fortune": [
+        "Fortune": [
             1000,
             2000,
             3000,
@@ -52,7 +52,7 @@
             100000,
             200000
         ],
-        "headstart": [
+        "HeadStart": [
             10000,
             20000,
             30000,
