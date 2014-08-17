@@ -51,18 +51,14 @@
         "users": [
             "hypixel",
             "kevinkool",
-            "Rezzus"
+            "Rezzus",
+            "Cryptsie",
+            "hcherndon"
         ]
     },
-    "Update the mod, ask Doran": {
+    "Others": {
         "users": [
-            "DoranKnoll",
             "MidgetM"
-        ]
-    },
-    "Other": {
-        "users": [
-            "BadMtf69"
         ]
     }
 }
