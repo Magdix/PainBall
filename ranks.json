@@ -33,19 +33,10 @@
             "thepinguinking35"
         ]
     },
-    "Default": {
-        "users": [
-            "LonelyFatKid",
-            "JoelyMo101"
-        ]
-    },
     "GrailMore": {
         "users": [
             "GrailMore"
-        ],
-        "settings": {
-            "messages": "Hey there"
-        }
+        ]
     },
     "Hypixel Admin": {
         "users": [
@@ -58,7 +49,9 @@
     },
     "Others": {
         "users": [
-            "MidgetM"
+            "MidgetM",
+            "LonelyFatKid",
+            "JoelyMo101"
         ]
     }
 }
