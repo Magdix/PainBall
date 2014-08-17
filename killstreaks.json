@@ -1,7 +1,7 @@
 {
     "ForceField": {
         "length": "15 + ENDURANCE",
-        "cooldown": 70
+        "cooldown": 85
     },
     "TripleShot": {
         "length": "30 + ENDURANCE",
