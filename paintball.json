@@ -200,10 +200,25 @@
             "cost": 75000
         }
     },
+    "teams": {
+        "1": [
+            "red",
+            "yellow",
+            "orange"
+            "white"
+        ],
+        "2": [
+            "blue",
+            "aqua",
+            "green",
+            "purple"
+        ]
+    },
     "maps": {
         "herobrine": {
             "size": "large",
             "players": 32
+            "team": 2
         }
     }
 }
