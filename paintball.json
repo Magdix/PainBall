@@ -204,7 +204,7 @@
         "1": [
             "red",
             "yellow",
-            "orange"
+            "orange",
             "white"
         ],
         "2": [
@@ -227,7 +227,7 @@
         },
         "Oh Canada": {
             "size": "normal",
-            "players": 24
+            "players": 24,
             "team": 1
         },
         "Swamps": {
@@ -259,6 +259,11 @@
             "size": "medium",
             "players": 24,
             "team": 1
+        },
+        "Egypt": {
+            "size": "medium",
+            "players": 24,
+            "team": 2
         }
     }
 }
