@@ -199,5 +199,11 @@
         "PaintBallKitty": {
             "cost": 75000
         }
+    },
+    "maps": {
+        "herobrine": {
+            "size": "large",
+            "players": 32
+        }
     }
 }
