@@ -215,10 +215,50 @@
         ]
     },
     "maps": {
-        "herobrine": {
+        "Herobrine": {
             "size": "large",
-            "players": 32
+            "players": 32,
             "team": 2
+        },
+        "Victorian": {
+            "size": "large",
+            "players": 28,
+            "team": 1
+        },
+        "Oh Canada": {
+            "size": "normal",
+            "players": 24
+            "team": 1
+        },
+        "Swamps": {
+            "size": "normal",
+            "players": 16,
+            "team": 1
+        },
+        "Mansion": {
+            "size": "small",
+            "players": 16,
+            "team": 0
+        },
+        "Lalaland": {
+            "size": "normal",
+            "players": 24,
+            "team": 0
+        },
+        "Babyland": {
+            "size": "normal",
+            "players": 24,
+            "team": 1
+        },
+        "Juice": {
+            "size": "normal",
+            "players": 24,
+            "team": 2
+        },
+        "La Mente": {
+            "size": "medium",
+            "players": 24,
+            "team": 1
         }
     }
 }
