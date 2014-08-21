@@ -73,23 +73,23 @@
     },
     "HatRezzus": {
         "length": 5,
-        "cooldown": 80
+        "cooldown": 75
     },
     "HatPBK": {
         "length": 5,
-        "cooldown": 65
+        "cooldown": 60
     },
     "HatCodename_B": {
         "length": 5,
-        "cooldown": 65
+        "cooldown": 60
     },
     "HatKevinkool": {
         "length": 5,
-        "cooldown": 65
+        "cooldown": 60
     },
     "HatMystery": {
         "length": 5,
-        "cooldown": 65
+        "cooldown": 60
     },
     "HatAgentK": {
         "length": 0,
