@@ -98,5 +98,9 @@
     "HatHypixel": {
         "length": 5,
         "cooldown": 55
+    },
+    "SpawnProtection": {
+        "length": 5,
+        "cooldown": 0
     }
 }
