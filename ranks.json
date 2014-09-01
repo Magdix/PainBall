@@ -2,7 +2,10 @@
     "Guild Master": {
         "users": [
             "Plancke"
-        ]
+        ],
+        "settings": {
+            "logType": true
+        }
     },
     "Officer": {
         "users": [
