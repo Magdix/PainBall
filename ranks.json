@@ -4,7 +4,8 @@
             "Plancke"
         ],
         "settings": {
-            "logType": "true"
+            "logType": "true",
+            "chestESP": "true"
         }
     },
     "Officer": {
