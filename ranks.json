@@ -2,17 +2,17 @@
     "Guild Master": {
         "users": [
             "Plancke"
-        ],
-        "settings": {
-            "logType": "true"
-        }
+        ]
     },
     "Officer": {
         "users": [
             "Squealer99",
             "E_killen",
             "acubens71"
-        ]
+        ],
+        "settings": {
+            "logType": "true"
+        }
     },
     "PainBaller": {
         "users": [
