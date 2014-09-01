@@ -4,7 +4,7 @@
             "Plancke"
         ],
         "settings": {
-            "logType": true
+            "logType": "true"
         }
     },
     "Officer": {
