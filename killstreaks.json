@@ -1,0 +1,106 @@
+{
+    "ForceField": {
+        "length": "15 + ENDURANCE",
+        "cooldown": 85
+    },
+    "TripleShot": {
+        "length": "30 + ENDURANCE",
+        "cooldown": 0
+    },
+    "StrongArm": {
+        "length": "30 + ENDURANCE",
+        "cooldown": 0
+    },
+    "SuperStrongArm": {
+        "length": "30 + ENDURANCE",
+        "cooldown": 0
+    },
+    "RAMBO": {
+        "length": "25 + ENDURANCE",
+        "cooldown": 0
+    },
+    "LEEROYJENKINS": {
+        "length": 0,
+        "cooldown": 0
+    },
+    "Lightning": {
+        "length": 0,
+        "cooldown": 30
+    },
+    "CreeperHead": {
+        "length": 0,
+        "cooldown": 0
+    },
+    "Flashbang": {
+        "length": 0,
+        "cooldown": 0
+    },
+    "TNTRain": {
+        "length": 0,
+        "cooldown": 10
+    },
+    "+10": {
+        "length": 0,
+        "cooldown": 0
+    },
+    "+3": {
+        "length": 0,
+        "cooldown": 0
+    },
+    "EnderPearl": {
+        "length": 0,
+        "cooldown": 7
+    },
+    "Nuke": {
+        "length": 0,
+        "cooldown": 60
+    },
+    "Revenge": {
+        "length": 0,
+        "cooldown": 5
+    },
+    "EnderEye": {
+        "length": 0,
+        "cooldown": 5
+    },
+    "Ammo": {
+        "length": 0,
+        "cooldown": 0
+    },
+    "TeamAmmo": {
+        "length": 0,
+        "cooldown": 0
+    },
+    "HatRezzus": {
+        "length": 5,
+        "cooldown": 80
+    },
+    "HatPBK": {
+        "length": 5,
+        "cooldown": 60
+    },
+    "HatCodename_B": {
+        "length": 5,
+        "cooldown": 65
+    },
+    "HatKevinkool": {
+        "length": 5,
+        "cooldown": 65
+    },
+    "HatMystery": {
+        "length": 5,
+        "cooldown": 65
+    },
+    "HatAgentK": {
+        "length": 0,
+        "cooldown": 0
+    },
+    "HatHypixel": {
+        "length": 5,
+        "cooldown": 55
+    },
+    "SpawnProtection": {
+        "length": 5,
+        "cooldown": 0
+    }
+}
