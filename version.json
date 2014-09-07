@@ -3,6 +3,7 @@
   "link": "https://www.dropbox.com/s/5iiavhvv0l4ng6u/PainBall-3.0.jar",
   "changelog": [
     "Fixed EXP Bar issues",
-    "Fixed Paintball killstreak reset"
+    "Fixed Paintball killstreak reset",
+    "Added fancy changelog"
   ]
 }
