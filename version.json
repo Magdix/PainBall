@@ -1,9 +1,9 @@
 {
-  "latestVersion": "3.4",
+  "latestVersion": "3.4.1",
   "link": "https://www.dropbox.com/s/5iiavhvv0l4ng6u/PainBall-3.0.jar",
   "changelog": [
     "Fixed EXP Bar issues",
     "Fixed Paintball killstreak reset",
-    "Added fancy changelog"
+    "Added fancy Changelog"
   ]
 }
