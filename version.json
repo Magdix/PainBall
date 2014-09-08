@@ -1,9 +1,10 @@
 {
-  "latestVersion": "3.4.1",
+  "latestVersion": "3.5.0",
   "link": "https://www.dropbox.com/s/5iiavhvv0l4ng6u/PainBall-3.0.jar",
   "changelog": [
-    "Fixed EXP Bar issues",
-    "Fixed Paintball killstreak reset",
-    "Added fancy Changelog"
+    "Added Java 1.6 Support",
+    "Added Locale options for almost all buttons",
+    "Changed Settings, loss of old ones",
+    "Fixed Bugs"
   ]
 }
