@@ -2,7 +2,7 @@
   "latestVersion": "3.5.1",
   "link": "https://www.dropbox.com/s/5iiavhvv0l4ng6u/PainBall-3.0.jar",
   "changelog": [
-    "Added Java 1.6 Support",
+    "Added Java 6 Support",
     "Added Locale options for almost all buttons",
     "Changed Settings, loss of old ones",
     "Fixed Bugs"
@@ -13,7 +13,7 @@
       "Fixed some bugs"
     ],
     "3.5.0": [
-      "Added Java 1.6 Support",
+      "Added Java 6 Support",
       "Added Locale options for almost all buttons",
       "Changed Settings, loss of old ones",
       "Fixed Bugs"
