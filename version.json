@@ -11,10 +11,16 @@
     "Changed Settings, loss of old ones",
     "Fixed Bugs"
   ],
-  "3.5.0.changelog": [
-    "Added Java 1.6 Support",
-    "Added Locale options for almost all buttons",
-    "Changed Settings, loss of old ones",
-    "Fixed Bugs"
-  ]
+  "changelogs": {
+    "3.5.1":[
+      "Added ToLimbo Button",
+      "Fixed some bugs"
+    ],
+    "3.5.0": [
+      "Added Java 1.6 Support",
+      "Added Locale options for almost all buttons",
+      "Changed Settings, loss of old ones",
+      "Fixed Bugs"
+    ]
+  }
 }
