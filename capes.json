@@ -8,10 +8,35 @@
     "Officer": {
         "capeUrl": "https://dl.dropboxusercontent.com/u/37443722/PainBall/cape.png",
         "users": [
-            "waterbeat",
             "Squealer99",
             "E_killen",
             "acubens31"
+        ]
+    },
+    "Member": {
+        "capeUrl": "https://dl.dropboxusercontent.com/u/37443722/PainBall/cape.png",
+        "users": [
+            "atl15",
+            "Draco5359",
+            "Tiffcam06",
+            "Fontn",
+            "Planes_Cars",
+            "_CaptainAlpha_",
+            "chefcole03",
+            "DoranKnoll",
+            "GrailMore",
+            "zeusman00",
+            "YGStephen",
+            "AntVenom",
+            "Ted_Ick",
+            "hcherndie",
+            "MetalCarl_Al",
+            "MagnusStoffer",
+            "Famousbob86",
+            "Plinty22",
+            "Red_PandazAllDay",
+            "grog36",
+            "waterbeat"
         ]
     }
 }
