@@ -1,7 +1,17 @@
 {
   "latestVersion": "3.5.0",
   "link": "https://www.dropbox.com/s/5iiavhvv0l4ng6u/PainBall-3.0.jar",
+  "3.5.1.changelog": [
+    "Added ToLimbo Button",
+    "Fixed some bugs"
+  ],
   "changelog": [
+    "Added Java 1.6 Support",
+    "Added Locale options for almost all buttons",
+    "Changed Settings, loss of old ones",
+    "Fixed Bugs"
+  ],
+  "3.5.0.changelog": [
     "Added Java 1.6 Support",
     "Added Locale options for almost all buttons",
     "Changed Settings, loss of old ones",
