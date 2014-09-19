@@ -8,7 +8,10 @@
     "Fixed Bugs"
   ],
   "changelogs": {
-    "3.5.1":[
+    "3.5.2": [
+      "Test"
+    ],
+    "3.5.1": [
       "Added ToLimbo Button",
       "Fixed some bugs"
     ],
