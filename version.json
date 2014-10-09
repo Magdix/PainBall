@@ -2,6 +2,9 @@
   "latestVersion": "3.5.4",
   "link": "https://www.dropbox.com/s/5iiavhvv0l4ng6u/PainBall-3.0.jar",
   "changelogs": {
+    "3.5.5": [
+      "Fixed MegaWalls counters"
+    ],
     "3.5.4": [
       "Fixed Starting of game detection",
       "Completed Online Friends button",
