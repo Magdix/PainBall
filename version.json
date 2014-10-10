@@ -3,7 +3,10 @@
   "link": "https://www.dropbox.com/s/5iiavhvv0l4ng6u/PainBall-3.0.jar",
   "changelogs": {
     "3.5.5": [
-      "Fixed MegaWalls counters"
+      "Fixed MegaWalls counters",
+      "Added final assist counter",
+      "Added Reset for Coin Counter",
+      "Added Reset for Round Timer"
     ],
     "3.5.4": [
       "Fixed Starting of game detection",
