@@ -6,7 +6,8 @@
       "Fixed MegaWalls counters",
       "Added final assist counter",
       "Added Reset for Coin Counter",
-      "Added Reset for Round Timer"
+      "Added Reset for Round Timer",
+      "Added Capes"
     ],
     "3.5.4": [
       "Fixed Starting of game detection",
