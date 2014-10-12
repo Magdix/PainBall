@@ -2,6 +2,16 @@
   "latestVersion": "3.5.5",
   "link": "https://www.dropbox.com/s/5iiavhvv0l4ng6u/PainBall-3.0.jar",
   "changelogs": {
+      "3.6.0": [
+      "Added final assist counter",
+      "Added reset for coin counter",
+      "Added reset for round timer",
+      "Added capes again",
+      "Fixed MegaWalls counters",
+      "Fixed toggle CoinCounter button",
+      "Fixed toggle RoundTimer button",
+      "Fixed GUI Scale"
+    ],
     "3.5.5": [
       "Added final assist counter",
       "Added reset for coin counter",
