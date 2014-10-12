@@ -5,7 +5,8 @@
         ],
         "settings": {
             "messages": [
-                "hey"    
+                "You are using a trial version of the PainBall mod",
+                "Join PainBall to be sure to always have it :)"
             ]
         }
     },
