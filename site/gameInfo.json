@@ -1,6 +1,6 @@
 {
     "BSG": {
-        "kits": [
+        "kitprices": [
             100,
             1000,
             2000,
@@ -10,7 +10,32 @@
             100000,
             250000,
             1000000
-        ]
+        ],
+        "kits": [
+            "Armorer",
+            "MeatMaster",
+            "Fisherman",
+            "Speleologist",
+            "Archer",
+            "Knight",
+            "Scout",
+            "Baker",
+            "Astronaut",
+            "Troll",
+            "Creepertamer",
+            "Wolftamer",
+            "Rogue",
+            "SlimeySlime",
+            "Blaze",
+            "Toxicologist",
+            "Arachnologist",
+            "RedDragon",
+            "Horsetamer",
+            "Tim",
+            "Necromancer",
+            "Snowman"
+        ],
+        "Tauntability": 1000
     },
     "Paintball": {
         "perks": {
