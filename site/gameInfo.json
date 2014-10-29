@@ -38,6 +38,49 @@
         ],
         "Tauntability": 1000
     },
+    "MW": {
+        "kits": {
+            "normal": [
+                "Skeleton",
+                "Zombie",
+                "Creeper",
+                "Enderman",
+                "Herobrine"
+            ],
+            "heroes": {
+                "Dreadlord": {
+                    "cost": 10000
+                },
+                "Shaman": {
+                    "cost": 10000
+                },
+                "Arcanist": {
+                    "cost": 10000
+                },
+                "Golem": {
+                    "cost": 10000
+                },
+                "Blaze": {
+                    "cost": 15000
+                },
+                "Pgiman": {
+                    "cost": 15000
+                }
+            }
+        },
+        "heromultiplier": 2,
+        "costs": [
+            0,
+            100,
+            250,
+            600,
+            1200,
+            3500,
+            6500,
+            8500,
+            14000
+        ]
+    },
     "Paintball": {
         "perks": {
             "Endurance": {
@@ -102,92 +145,92 @@
         },
         "killstreaks": {
             "Flashbang": {
-                "desc": "A smoke grenade with an area of effect.",
+                "desc": "Asmokegrenadewithanareaofeffect.",
                 "cost": 2500,
                 "killcoins": 2
             },
             "Tripleshot": {
-                "desc": "Throw three balls at once.",
+                "desc": "Throwthreeballsatonce.",
                 "cost": 2500,
                 "killcoins": 3
             },
             "Strongarm": {
-                "desc": "Throw more snowballs faster",
+                "desc": "Throwmoresnowballsfaster",
                 "cost": 0,
                 "killcoins": 4
             },
             "+3": {
-                "desc": " Regain 3 lives for your team",
+                "desc": "Regain3livesforyourteam",
                 "cost": 0,
                 "killcoins": 5
             },
-            "Creeper Head": {
-                "desc": "Spawn creepers to fight for you",
+            "CreeperHead": {
+                "desc": "Spawncreeperstofightforyou",
                 "cost": 2500,
                 "killcoins": 8
             },
             "RAMBO": {
-                "desc": " Respawn instantly with no loss of lives",
+                "desc": "Respawninstantlywithnolossoflives",
                 "cost": 0,
                 "killcoins": 10
             },
             "TNTRain": {
-                "desc": "Rain TNT down on your enemies.",
+                "desc": "RainTNTdownonyourenemies.",
                 "cost": 2500,
                 "killcoins": 10
             },
             "+10": {
-                "desc": "Regain 10 lives for your team.",
+                "desc": "Regain10livesforyourteam.",
                 "cost": 2500,
                 "killcoins": 15
             },
             "Nuke": {
-                "desc": "Destroys the enemy team with 100% accuracy",
+                "desc": "Destroystheenemyteamwith100%accuracy",
                 "cost": 5500,
                 "killcoins": 25
             },
             "Ammo": {
-                "desc": " Get a stack of 32 snowballs",
+                "desc": "Getastackof32snowballs",
                 "cost": 0,
                 "killcoins": 3
             },
-            "LEEROY JENKINS": {
-                "desc": "Spawn 30 chickens on the enemy spawn",
+            "LEEROYJENKINS": {
+                "desc": "Spawn30chickensontheenemyspawn",
                 "cost": 0,
                 "killcoins": 5
             },
-            "Super Strong Arm": {
-                "desc": "A stronger variant of strongarm",
+            "SuperStrongArm": {
+                "desc": "Astrongervariantofstrongarm",
                 "cost": 2500,
                 "killcoins": 9
             },
-            "Team Ammo": {
-                "desc": "32 paintballs for everyone in your team",
+            "TeamAmmo": {
+                "desc": "32paintballsforeveryoneinyourteam",
                 "cost": 0,
                 "killcoins": 10
             },
             "Revenge": {
-                "desc": "Kills the player who killed you last",
+                "desc": "Killstheplayerwhokilledyoulast",
                 "cost": 0,
                 "killcoins": 8
             },
             "Lightning": {
-                "desc": "Strike down enemies within 10 blocks",
+                "desc": "Strikedownenemieswithin10blocks",
                 "cost": 2500,
                 "killcoins": 12
             },
             "Enderpearl": {
-                "desc": "Teleport to where you last died.",
+                "desc": "Teleporttowhereyoulastdied.",
                 "cost": 2500,
                 "killcoins": 15
             },
             "Endereye": {
-                "desc": "Swap places with a random enemy.",
+                "desc": "Swapplaceswitharandomenemy.",
                 "cost": 2500,
                 "killcoins": 15
             },
             "Forcefield": {
-                "desc": "Reflect paintballs for 15 seconds",
+                "desc": "Reflectpaintballsfor15seconds",
                 "cost": 6500,
                 "killcoins": 50
             }
@@ -276,7 +319,7 @@
                 "players": 28,
                 "team": 1
             },
-            "Oh Canada": {
+            "OhCanada": {
                 "size": "normal",
                 "players": 24,
                 "team": 1
@@ -306,7 +349,7 @@
                 "players": 24,
                 "team": 2
             },
-            "La Mente": {
+            "LaMente": {
                 "size": "medium",
                 "players": 24,
                 "team": 1
