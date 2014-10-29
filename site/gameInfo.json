@@ -39,7 +39,7 @@
         "Tauntability": 1000
     },
     "MW": {
-        "kits": {
+        "classes": {
             "normal": {
                 "Skeleton": {
                     "cost": 0
@@ -79,6 +79,7 @@
             }
         },
         "heromultiplier": 2,
+        "prestigecost": 250000,
         "costs": [
             0,
             100,
