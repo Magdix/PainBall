@@ -40,13 +40,23 @@
     },
     "MW": {
         "kits": {
-            "normal": [
-                "Skeleton",
-                "Zombie",
-                "Creeper",
-                "Enderman",
-                "Herobrine"
-            ],
+            "normal": {
+                "Skeleton": {
+                    "cost": 0
+                },
+                "Zombie": {
+                    "cost": 0
+                },
+                "Creeper": {
+                    "cost": 0
+                },
+                "Enderman": {
+                    "cost": 0
+                },
+                "Herobrine": {
+                    "cost": 0
+                }
+            },
             "heroes": {
                 "Dreadlord": {
                     "cost": 10000
