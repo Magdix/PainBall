@@ -54,12 +54,12 @@
             "eclipsed_mc_cat",
             "Awsomesauce99999",
             "DwD_Flare",
-            "MGMarten"
+            "MGMarten",
+            "Brand0nMC"
         ],
         "settings": {
             "messages": [
-                "You are using a trial version of the PainBall mod",
-                "Join PainBall to be sure to always have it :)"
+                "You are using a trial version of the PainBall mod"
             ]
         }
     }
