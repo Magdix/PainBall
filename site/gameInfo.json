@@ -64,7 +64,42 @@
                 "cost": 385000
             }
         },
-        "tauntability": 1000
+        "tauntability": 1000,
+        "taunts": {
+            "apocalypse": {
+                "cost": 2200
+            },
+            "assasin": {
+                "cost": 2200
+            },
+            "dragonborn": {
+                "cost": 2200
+            },
+            "explosion": {
+                "cost": 2200
+            },
+            "imprison": {
+                "cost": 2200
+            },
+            "firebreather": {
+                "cost": 2200
+            },
+            "darkknight": {
+                "cost": 2200
+            },
+            "vualthunder": {
+                "cost": 2200
+            },
+            "witherwarrior": {
+                "cost": 2200
+            },
+            "holywarrior": {
+                "cost": 2200
+            },
+            "robinhood": {
+                "cost": 2200
+            }
+        }
     },
     "MW": {
         "classes": {
