@@ -66,37 +66,37 @@
         },
         "tauntability": 1000,
         "taunts": {
-            "apocalypse": {
+            "Apocalypse": {
                 "cost": 2200
             },
-            "assasin": {
+            "Assasin": {
                 "cost": 2200
             },
-            "dragonborn": {
+            "Dragonborn": {
                 "cost": 2200
             },
-            "explosion": {
+            "Explosion": {
                 "cost": 2200
             },
-            "imprison": {
+            "Imprison": {
                 "cost": 2200
             },
-            "firebreather": {
+            "Firebreather": {
                 "cost": 2200
             },
-            "darkknight": {
+            "DarkKnight": {
                 "cost": 2200
             },
-            "vualthunder": {
+            "VualThunder": {
                 "cost": 2200
             },
-            "witherwarrior": {
+            "WitherWarrior": {
                 "cost": 2200
             },
-            "holywarrior": {
+            "HolyWarrior": {
                 "cost": 2200
             },
-            "robinhood": {
+            "Robinhood": {
                 "cost": 2200
             }
         }
