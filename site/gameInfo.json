@@ -12,30 +12,58 @@
             250000,
             1000000
         ],
-        "kits": [
-            "Armorer",
-            "MeatMaster",
-            "Fisherman",
-            "Speleologist",
-            "Archer",
-            "Knight",
-            "Scout",
-            "Baker",
-            "Astronaut",
-            "Troll",
-            "Creepertamer",
-            "Wolftamer",
-            "Rogue",
-            "SlimeySlime",
-            "Blaze",
-            "Toxicologist",
-            "Arachnologist",
-            "RedDragon",
-            "Horsetamer",
-            "Tim",
-            "Necromancer",
-            "Snowman"
-        ],
+        "kits": {
+            "Armorer": {},
+            "MeatMaster": {},
+            "Fisherman": {},
+            "Speleologist": {},
+            "Archer": {},
+            "Knight": {},
+            "Scout": {},
+            "Baker": {},
+            "Astronaut": {
+                "cost": 75000
+            },
+            "Troll": {
+                "cost": 45000
+            },
+            "Creepertamer": {
+                "cost": 45000
+            },
+            "Wolftamer": {
+                "cost": 75000
+            },
+            "Rogue": {
+                "cost": 75000
+            },
+            "SlimeySlime": {
+                "cost": 45000
+            },
+            "Blaze": {
+                "cost": 45000
+            },
+            "Toxicologist": {
+                "cost": 75000
+            },
+            "Arachnologist": {
+                "cost": 75000
+            },
+            "RedDragon": {
+                "cost": 125000
+            },
+            "Horsetamer": {
+                "cost": 235000
+            },
+            "Tim": {
+                "cost": 75000
+            },
+            "Necromancer": {
+                "cost": 75000
+            },
+            "Snowman": {
+                "cost": 385000
+            }
+        },
         "tauntability": 1000
     },
     "MW": {
