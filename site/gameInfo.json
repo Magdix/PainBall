@@ -382,7 +382,7 @@
             },
             "PaintBallKitty": {
                 "cost": 75000,
-                "dbname": "vip_paintballkitte_hat"
+                "dbname": "vip_paintballkitty_hat"
             }
         },
         "teams": {
