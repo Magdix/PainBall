@@ -266,7 +266,7 @@
                 "killcoins": 15
             },
             "Nuke": {
-                "desc": "Destroys the enemy team with 100%accuracy",
+                "desc": "Destroys the enemy team with 100% accuracy",
                 "cost": 5500,
                 "killcoins": 25
             },
@@ -276,7 +276,7 @@
                 "killcoins": 3
             },
             "LEEROYJENKINS": {
-                "desc": "Spawn30chickensontheenemyspawn",
+                "desc": "Spawn 30 chickens on the enemy spawn",
                 "cost": 0,
                 "killcoins": 5
             },
@@ -301,7 +301,7 @@
                 "killcoins": 12
             },
             "Enderpearl": {
-                "desc": "Teleporttowhereyoulastdied.",
+                "desc": "Teleport to where you last died.",
                 "cost": 2500,
                 "killcoins": 15
             },
@@ -391,7 +391,7 @@
             },
             "PaintBallKitty": {
                 "cost": 75000,
-                "dbname": "vip_paintballkitty_hat"
+                "dbname": "vip_paintballkitte_hat"
             }
         },
         "teams": {
