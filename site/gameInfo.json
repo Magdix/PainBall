@@ -318,68 +318,80 @@
         },
         "hats": {
             "TNT": {
-                "cost": 4200
+                "cost": 4200,
+                "dbname": "tnt_hat"
             },
             "Speed": {
-                "cost": 3000
+                "cost": 3000,
+                "dbname": "speed_hat"
             },
             "Snow": {
-                "cost": 4200
+                "cost": 4200,
+                "dbname": "snow_hat"
             },
             "Hard": {
-                "cost": 4200
+                "cost": 4200,
+                "dbname": "hard_hat"
             },
             "Ender": {
-                "cost": 4200
+                "cost": 4200,
+                "dbname": "ender_hat"
             },
             "Dark": {
-                "cost": 4200
+                "cost": 4200,
+                "dbname": "hat_of_darkness"
             },
             "Troll": {
-                "cost": 4200
+                "cost": 4200,
+                "dbname": "trololol_hat"
             },
             "Normal": {
-                "cost": 2000
+                "cost": 2000,
+                "dbname": "normal_hat"
             },
             "Drunk": {
-                "cost": 4200
+                "cost": 4200,
+                "dbname": "drunk_hat"
             },
             "Squid": {
-                "cost": 4200
+                "cost": 4200,
+                "dbname": "squid_hat"
             },
             "Spider": {
-                "cost": 4200
+                "cost": 4200,
+                "dbname": "spider_hat"
             },
             "Shaky": {
-                "cost": 4200
+                "cost": 4200,
+                "dbname": "shaky_hat"
             },
             "AgentK": {
                 "cost": 75000,
-                "vip": true
+                "dbname": "vip_agentk_hat"
             },
             "KevinKool": {
                 "cost": 75000,
-                "vip": true
+                "dbname": "vip_kevinkool_hat"
             },
             "Rezzus": {
                 "cost": 100000,
-                "vip": true
+                "dbname": "vip_rezzus_hat"
             },
             "Mystery": {
                 "cost": 75000,
-                "vip": true
+                "dbname": "vip_neonmaster_hat"
             },
             "hypixel": {
                 "cost": 75000,
-                "vip": true
+                "dbname": "vip_hypixel_hat"
             },
             "codename_b": {
                 "cost": 75000,
-                "vip": true
+                "dbname": "vip_codename_b_hat"
             },
             "PaintBallKitty": {
                 "cost": 75000,
-                "vip": true
+                "dbname": "vip_paintballkitte_hat"
             }
         },
         "teams": {
