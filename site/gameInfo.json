@@ -14,7 +14,9 @@
         ],
         "kits": {
             "Armorer": {},
-            "MeatMaster": {},
+            "Meat Master": { 
+                "dbname": "meatmaster" 
+            },
             "Fisherman": {},
             "Speleologist": {},
             "Archer": {},
@@ -36,8 +38,9 @@
             "Rogue": {
                 "cost": 75000
             },
-            "SlimeySlime": {
-                "cost": 45000
+            "Slimey Slime": {
+                "cost": 45000,
+                "dbname": "slimeyslime"
             },
             "Blaze": {
                 "cost": 45000
@@ -48,8 +51,9 @@
             "Arachnologist": {
                 "cost": 75000
             },
-            "RedDragon": {
-                "cost": 125000
+            "Red Dragon": {
+                "cost": 125000,
+                "dbname": "reddragon"
             },
             "Horsetamer": {
                 "cost": 235000
@@ -254,7 +258,8 @@
             "+10": {
                 "desc": "Regain 10 lives for your team.",
                 "cost": 2500,
-                "killcoins": 15
+                "killcoins": 15,
+                "dbname": "plusten"
             },
             "Nuke": {
                 "desc": "Destroys the enemy team with 100% accuracy",
