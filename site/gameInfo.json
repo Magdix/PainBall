@@ -65,7 +65,7 @@
             }
         },
         "tauntability": 1000,
-        "taunts": {
+        "blitzpowerups": {
             "Apocalypse": {
                 "cost": 2200
             },
@@ -81,20 +81,25 @@
             "Imprison": {
                 "cost": 2200
             },
-            "Firebreather": {
-                "cost": 2200
+            "Fire Breather": {
+                "cost": 2200,
+                "dbname": "firebreather"
             },
-            "DarkKnight": {
-                "cost": 2200
+            "Darknight": {
+                "cost": 2200,
+                "dbname": "darknight"
             },
-            "VualThunder": {
-                "cost": 2200
+            "Vault Hunter": {
+                "cost": 2200,
+                "dbname": "vaulthunter"
             },
-            "WitherWarrior": {
-                "cost": 2200
+            "Wither Warrior": {
+                "cost": 2200,
+                "dbname": "witherwarrior"
             },
-            "HolyWarrior": {
-                "cost": 2200
+            "Holy Warrior": {
+                "cost": 2200,
+                "dbname": "holywarrior"
             },
             "Robinhood": {
                 "cost": 2200
