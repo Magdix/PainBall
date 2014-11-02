@@ -1,5 +1,5 @@
 {
-    "BSG": {
+    "HungerGames": {
         "kitprices": [
             0,
             100,
@@ -101,7 +101,7 @@
             }
         }
     },
-    "MW": {
+    "Walls3": {
         "classes": {
             "Skeleton": {
                 "cost": 0,
