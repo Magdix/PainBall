@@ -354,25 +354,32 @@
                 "cost": 4200
             },
             "AgentK": {
-                "cost": 75000
+                "cost": 75000,
+                "vip": true
             },
             "KevinKool": {
-                "cost": 75000
+                "cost": 75000,
+                "vip": true
             },
             "Rezzus": {
-                "cost": 100000
+                "cost": 100000,
+                "vip": true
             },
             "Mystery": {
-                "cost": 75000
+                "cost": 75000,
+                "vip": true
             },
             "hypixel": {
-                "cost": 75000
+                "cost": 75000,
+                "vip": true
             },
             "codename_b": {
-                "cost": 75000
+                "cost": 75000,
+                "vip": true
             },
             "PaintBallKitty": {
-                "cost": 75000
+                "cost": 75000,
+                "vip": true
             }
         },
         "teams": {
