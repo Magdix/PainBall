@@ -104,24 +104,19 @@
     "Walls3": {
         "classes": {
             "Skeleton": {
-                "cost": 0,
-                "hero": false
+                "cost": 0
             },
             "Zombie": {
-                "cost": 0,
-                "hero": false
+                "cost": 0
             },
             "Creeper": {
-                "cost": 0,
-                "hero": false
+                "cost": 0
             },
             "Enderman": {
-                "cost": 0,
-                "hero": false
+                "cost": 0
             },
             "Herobrine": {
-                "cost": 0,
-                "hero": false
+                "cost": 0
             },
             "Dreadlord": {
                 "cost": 10000,
