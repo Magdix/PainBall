@@ -66,11 +66,30 @@
     },
     "Paintball": {
         "displayName": "Paintball",
-        "displayedFields": {}
+        "displayedFields": {
+            "coins": "Coins",
+            "kills": "Kills",
+            "deaths": "Deaths",
+            "killstreaks": "Killstreaks",
+            "shots_fired": "Shots Fired",
+            "wins": "Wins"
+        }
     },
     "MCGO": {
         "displayName": "Cops and Crims",
-        "displayedFields": {}
+        "displayedFields": {
+            "coins": "Coins",
+            "kills": "Kills",
+            "deaths": "Deaths",
+            "game_wins": "Game Wins",
+            "round_wins": "Round Wins",
+            "headshot_kills": "Headshots",
+            "shots_fired": "Shots Fired",
+            "cop_kills": "Cop Kills",
+            "criminal_kills": "Criminal Kills",
+            "bombs_planted": "Bombs Planted",
+            "bombs_defused": "BombsDefoosed"
+        }
     },
     "TNTGames": {
         "displayName": "TNTGames",
