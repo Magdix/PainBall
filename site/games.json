@@ -4,20 +4,44 @@
         "displayedFields": {
             "kills": "Kills",
             "deaths": "Deaths",
-            "wins": "Wins"
+            "wins": "Wins",
+            "coins": "Coins"
         }
     },
     "Walls3": {
         "displayName": "MegaWalls",
-        "displayedFields": {}
+        "displayedFields": {
+            "kills": "Kills",
+            "deaths": "Deaths",
+            "finalKills": "Final Kills",
+            "finalDeaths": "Final Deaths",
+            "wins": "Wins",
+            "losses": "Losses",
+            "coins": "Coins"
+        }
     },
     "Walls": {
         "displayName": "Walls",
-        "displayedFields": {}
+        "displayedFields": {
+            "kills": "Kills",
+            "deaths": "Deaths",
+            "wins": "Wins",
+            "losses": "Losses",
+            "coins": "Coins"
+        }
     },
     "Arena": {
         "displayName": "Arena",
-        "displayedFields": {}
+        "displayedFields": {
+            "kills_2v2": "Kills 2v2",
+            "kills_4v4": "Kills 4v4",
+            "deaths_2v2": "Deaths 2v2",
+            "deaths_4v4": "Deaths 4v4",
+            "wins_2v2": "Wins 2v2",
+            "wins_4v4": "Wins 4v4",
+            "losses_2v2": "Losses 2v2",
+            "losses_4v4": "Losses 4v4"
+        }
     },
     "Arcade": {
         "displayName": "Arcade",
