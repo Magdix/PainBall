@@ -93,7 +93,16 @@
     },
     "TNTGames": {
         "displayName": "TNTGames",
-        "displayedFields": {}
+        "displayedFields": {
+            "coins": "Coins",
+            "kills_capture": "Wizard Kills",
+            "deaths_capture": "Wizard Deaths",
+            "deaths_bowspleef": "Deaths Bowspleef",
+            "wins_bowspleef": "Wins Bowspleef",
+            "wins_capture": "Wins Wizards",
+            "wins_tntag": "Wins TNT Tag",
+            "wins_tntrun": "Wins TNT Run"
+        }
     },
     "VampireZ": {
         "displayName": "VampireZ",
