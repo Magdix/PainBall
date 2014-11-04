@@ -1,30 +1,30 @@
 {
     "HungerGames": {
-        "displayname": "Blitz Survival Games",
+        "displayName": "Blitz Survival Games",
         "displayedFields": {}
     },
     "Walls3": {
-        "displayname": "MegaWalls",
+        "displayName": "MegaWalls",
         "displayedFields": {}
     },
     "Walls": {
-        "displayname": "Walls",
+        "displayName": "Walls",
         "displayedFields": {}
     },
     "Arena": {
-        "displayname": "Arena",
+        "displayName": "Arena",
         "displayedFields": {}
     },
     "Arcade": {
-        "displayname": "Arcade",
+        "displayName": "Arcade",
         "displayedFields": {}
     },
     "Paintball": {
-        "displayname": "Paintball",
+        "displayName": "Paintball",
         "displayedFields": {}
     },
     "MCGO": {
-        "displayname": "Cops and Crims",
+        "displayName": "Cops and Crims",
         "displayedFields": {}
     },
     "TNTGames": {
@@ -32,11 +32,11 @@
         "displayedFields": {}
     },
     "VampireZ": {
-        "displayname": "VampireZ",
+        "displayName": "VampireZ",
         "displayedFields": {}
     },
     "Quake": {
-        "displayname": "Quake",
+        "displayName": "Quake",
         "displayedFields": {}
     }
 }
