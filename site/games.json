@@ -1,5 +1,12 @@
 {
-  "HungerGames": "Blitz Survival Games",
-  "Walls3": "MegaWalls",
-  "Walls: "Walls"
+    "HungerGames": "Blitz Survival Games",
+    "Walls3": "MegaWalls",
+    "Walls": "Walls",
+    "Arena": "Arena",
+    "Arcade": "Arcade",
+    "Paintball": "Paintball",
+    "MCGO": "Cops and Crims",
+    "TNTGames": "TNTGames",
+    "VampireZ": "VampireZ",
+    "Quake": "Quake"
 }
