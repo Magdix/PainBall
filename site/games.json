@@ -2,22 +2,22 @@
     "HungerGames": {
         "displayName": "Blitz Survival Games",
         "displayedFields": {
+            "coins": "Coins",
             "kills": "Kills",
             "deaths": "Deaths",
-            "wins": "Wins",
-            "coins": "Coins"
+            "wins": "Wins"
         }
     },
     "Walls3": {
         "displayName": "MegaWalls",
         "displayedFields": {
+            "coins": "Coins",
             "kills": "Kills",
             "deaths": "Deaths",
             "finalKills": "Final Kills",
             "finalDeaths": "Final Deaths",
             "wins": "Wins",
-            "losses": "Losses",
-            "coins": "Coins"
+            "losses": "Losses"
         }
     },
     "Walls": {
@@ -33,6 +33,7 @@
     "Arena": {
         "displayName": "Arena",
         "displayedFields": {
+            "coins": "Coins",
             "kills_2v2": "Kills 2v2",
             "kills_4v4": "Kills 4v4",
             "deaths_2v2": "Deaths 2v2",
@@ -45,7 +46,14 @@
     },
     "Arcade": {
         "displayName": "Arcade",
-        "displayedFields": {}
+        "displayedFields": {
+            "coins": "Coins",
+            "kills_dayone": "Kills Blocking Dead",
+            "kills_dragonwars2": "Kills Dragonwars",
+            "kills_oneinthequiver": "Kills Bounty Hunter",
+            "kills_throw_out": "Kills Throw Out",
+            "poop_collected": "Poop Collected"
+        }
     },
     "Paintball": {
         "displayName": "Paintball",
