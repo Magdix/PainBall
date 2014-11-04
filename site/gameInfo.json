@@ -158,6 +158,129 @@
             14000
         ]
     },
+    "ArenaBrawl": {
+        "offensive": {
+            "Boulder Toss": {
+                "cost": 2800,
+                "energy": 80
+            },
+            "Cookie Shotgun": {
+                "cost": 12000,
+                "energy": 60
+            },
+            "Fireball": {
+                "cost": 0,
+                "energy": 40
+            },
+            "Flame Breath": {
+                "cost": 25000,
+                "energy": 60
+            },
+            "Freezing Breath": {
+                "cost": 25000,
+                "energy": 80
+            },
+            "Guided Pig 2000": {
+                "cost": 0,
+                "energy": 100
+            },
+            "Lightning Strike": {
+                "cost": 1200,
+                "energy": 70
+            },
+            "Melon Launcher": {
+                "cost": 9000,
+                "energy": 60
+            },
+            "Proximity Mine": {
+                "cost": 12000,
+                "energy": 100
+            },
+            "Rocket Chicken": {
+                "cost": 1000,
+                "energy": 30
+            },
+            "Seismic Wave": {
+                "cost": 12000,
+                "energy": 100
+            },
+            "Snowball": {
+                "cost": 120,
+                "energy": 20
+            }
+        },
+        "utility": {
+            "Barricade": {
+                "cost": 600,
+                "cooldown": 30
+            },
+            "Bull Charge": {
+                "cost": 0,
+                "cooldown": 40
+            },
+            "Golemfall": {
+                "cost": 12000,
+                "cooldown": 40
+            },
+            "Polymorph": {
+                "cost": 12000,
+                "cooldown": 40
+            },
+            "Shadow Step": {
+                "cost": 3600,
+                "cooldown": 40
+            },
+            "Swap": {
+                "cost": 12000,
+                "cooldown": 30
+            },
+            "Wall of Vines": {
+                "cost": 3600
+                "cooldown": 30
+            }
+        },
+        "support": {
+            "Bone Shield": {
+                "cost": 2400
+                "cooldown": 30
+            },
+            "Healing Totem": {
+                "cost": 0,
+                "cooldown": 40
+            },
+            "Holy Water": {
+                "cost": 600,
+                "cooldown": 30
+            }
+            "Life Leech": {
+                "cost": 12000,
+                "cooldown": 30
+            },
+            "Song of Power": {
+                "cost": 4500,
+                "cooldown": 60
+            },
+            "Star Shield": {
+                "cost": 0,
+                "cooldown": 45
+            },
+            "Tree of Life": {
+                "cost": 12000
+                "cooldown": 40
+            }
+        },
+        "ultimate": {
+            "Shield Wall": {
+                "cost": 0
+            },
+            "Berserk": {
+                "cost": 1200
+            },
+            "Broodmother": {
+                "cost": 25000
+            }
+        }
+    }
     "Paintball": {
         "perks": {
             "Endurance": {
