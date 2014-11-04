@@ -23,11 +23,11 @@
     "Walls": {
         "displayName": "Walls",
         "displayedFields": {
+            "coins": "Coins",
             "kills": "Kills",
             "deaths": "Deaths",
             "wins": "Wins",
-            "losses": "Losses",
-            "coins": "Coins"
+            "losses": "Losses"
         }
     },
     "Arena": {
@@ -106,10 +106,22 @@
     },
     "VampireZ": {
         "displayName": "VampireZ",
-        "displayedFields": {}
+        "displayedFields": {
+            "coins": "Coins",
+            "human_kills": "Human Kills",
+            "human_deaths": "Human Deaths",
+            "human_wins": "Human Wins",
+            "vampire_kills": "Vampire Kills",
+            "vampire_deaths": "Vampire Deaths"
+        }
     },
     "Quake": {
         "displayName": "Quake",
-        "displayedFields": {}
+        "displayedFields": {
+            "coins": "Coins",
+            "kills": "Kills",
+            "deaths": "Deaths",
+            "wins": "Wins"
+        }
     }
 }
