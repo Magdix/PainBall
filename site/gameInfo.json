@@ -14,8 +14,8 @@
         ],
         "kits": {
             "Armorer": {},
-            "Meat Master": { 
-                "dbname": "meatmaster" 
+            "Meat Master": {
+                "dbname": "meatmaster"
             },
             "Fisherman": {},
             "Speleologist": {},
@@ -235,13 +235,13 @@
                 "cooldown": 30
             },
             "Wall of Vines": {
-                "cost": 3600
+                "cost": 3600,
                 "cooldown": 30
             }
         },
         "support": {
             "Bone Shield": {
-                "cost": 2400
+                "cost": 2400,
                 "cooldown": 30
             },
             "Healing Totem": {
@@ -251,7 +251,7 @@
             "Holy Water": {
                 "cost": 600,
                 "cooldown": 30
-            }
+            },
             "Life Leech": {
                 "cost": 12000,
                 "cooldown": 30
@@ -265,7 +265,7 @@
                 "cooldown": 45
             },
             "Tree of Life": {
-                "cost": 12000
+                "cost": 12000,
                 "cooldown": 40
             }
         },
@@ -280,7 +280,7 @@
                 "cost": 25000
             }
         }
-    }
+    },
     "Paintball": {
         "perks": {
             "Endurance": {
