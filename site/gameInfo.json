@@ -65,7 +65,8 @@
                 "cost": 75000
             },
             "Snowman": {
-                "cost": 385000
+                "cost": 385000,
+                "reqLevel": 55,
             }
         },
         "tauntability": 1000,
