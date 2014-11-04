@@ -1,7 +1,7 @@
 {
     "HungerGames": {
         "displayName": "Blitz Survival Games",
-        "displayedFields": {}
+        "displayedFields": ["kills", "deaths", "wins"]
     },
     "Walls3": {
         "displayName": "MegaWalls",
