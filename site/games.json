@@ -52,7 +52,16 @@
             "kills_dragonwars2": "Kills Dragonwars",
             "kills_oneinthequiver": "Kills Bounty Hunter",
             "kills_throw_out": "Kills Throw Out",
-            "poop_collected": "Poop Collected"
+            "poop_collected": "Poop Collected",
+            "headshots_dayone": "Headshots Blocking Dead",
+            "wins_dayone": "Wins Blocking Dead",
+            "wins_dragonwars2": "Wins Dragonwars",
+            "wins_ender": "Wins Enderspleef",
+            "wins_farm_hunt": "Wins Farm Hunt",
+            "wins_oneinthequiver": "Wins Bounty Hunter",
+            "wins_party": "Wins Party Games 1",
+            "wins_party_2": "Wins Party Games 2",
+            "wins_throw_out": "Wins Throw Out"
         }
     },
     "Paintball": {
