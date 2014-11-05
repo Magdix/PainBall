@@ -142,7 +142,7 @@
             "cop_kills": "Cop Kills",
             "criminal_kills": "Criminal Kills",
             "bombs_planted": "Bombs Planted",
-            "bombs_defused": "BombsDefoosed",
+            "bombs_defused": "Bombs Defused",
             "spacer": 1,
             "k/d": {
                 "display": "Kill/Death Ratio",
