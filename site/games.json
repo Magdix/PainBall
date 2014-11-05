@@ -6,6 +6,7 @@
             "kills": "Kills",
             "deaths": "Deaths",
             "wins": "Wins",
+            "spacer": 1,
             "k/d": {
                 "display": "Kill/Death Ratio",
                 "math": "%0 / %1",
@@ -26,15 +27,8 @@
             "finalDeaths": "Final Deaths",
             "wins": "Wins",
             "losses": "Losses",
+            "spacer": 1,
             "k/d": {
-                "display": "Kill/Death Ratio",
-                "math": "%0 / %1",
-                "mathFields": [
-                    "kills",
-                    "deaths"
-                ]
-            },
-            "k/d2": {
                 "display": "FinalKill/FinalDeath Ratio",
                 "math": "%0 / %1",
                 "mathFields": [
@@ -52,6 +46,7 @@
             "deaths": "Deaths",
             "wins": "Wins",
             "losses": "Losses",
+            "spacer": 1,
             "k/d": {
                 "display": "Kill/Death Ratio",
                 "math": "%0 / %1",
@@ -66,6 +61,7 @@
         "displayName": "Arena",
         "displayedFields": {
             "coins": "Coins",
+            "rating": "Rating",
             "kills_2v2": "Kills 2v2",
             "kills_4v4": "Kills 4v4",
             "deaths_2v2": "Deaths 2v2",
@@ -74,15 +70,8 @@
             "wins_4v4": "Wins 4v4",
             "losses_2v2": "Losses 2v2",
             "losses_4v4": "Losses 4v4",
+            "spacer": 1,
             "k/d": {
-                "display": "Kill/Death Ratio 2v2",
-                "math": "%0 / %1",
-                "mathFields": [
-                    "kills_2v2",
-                    "deaths_2v2"
-                ]
-            },
-            "k/d2": {
                 "display": "Kill/Death Ratio 4v4",
                 "math": "%0 / %1",
                 "mathFields": [
@@ -121,6 +110,7 @@
             "killstreaks": "Killstreaks",
             "shots_fired": "Shots Fired",
             "wins": "Wins",
+            "spacer": 1,
             "k/d": {
                 "display": "Kill/Death Ratio",
                 "math": "%0 / %1",
@@ -145,6 +135,7 @@
             "criminal_kills": "Criminal Kills",
             "bombs_planted": "Bombs Planted",
             "bombs_defused": "BombsDefoosed",
+            "spacer": 1,
             "k/d": {
                 "display": "Kill/Death Ratio",
                 "math": "%0 / %1",
@@ -166,6 +157,7 @@
             "wins_capture": "Wins Wizards",
             "wins_tntag": "Wins TNT Tag",
             "wins_tntrun": "Wins TNT Run",
+            "spacer": 1,
             "k/d": {
                 "display": "Kill/Death Ratio Wizards",
                 "math": "%0 / %1",
@@ -185,15 +177,8 @@
             "human_wins": "Human Wins",
             "vampire_kills": "Vampire Kills",
             "vampire_deaths": "Vampire Deaths",
+            "spacer": 1,
             "k/d": {
-                "display": "Kill/Death Ratio Vampire",
-                "math": "%0 / %1",
-                "mathFields": [
-                    "vampire_kills",
-                    "dvampire_eaths"
-                ]
-            },
-            "k/d2": {
                 "display": "Kill/Death Ratio Human",
                 "math": "%0 / %1",
                 "mathFields": [
@@ -210,6 +195,7 @@
             "kills": "Kills",
             "deaths": "Deaths",
             "wins": "Wins",
+            "spacer": 1,
             "k/d": {
                 "display": "Kill/Death Ratio",
                 "math": "%0 / %1",
