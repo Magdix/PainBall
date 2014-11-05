@@ -34,7 +34,7 @@
                     "deaths"
                 ]
             },
-            "k/d": {
+            "k/d2": {
                 "display": "FinalKill/FinalDeath Ratio",
                 "math": "%0 / %1",
                 "mathFields": [
@@ -82,7 +82,7 @@
                     "deaths_2v2"
                 ]
             },
-            "k/d": {
+            "k/d2": {
                 "display": "Kill/Death Ratio 4v4",
                 "math": "%0 / %1",
                 "mathFields": [
@@ -193,7 +193,7 @@
                     "dvampire_eaths"
                 ]
             },
-            "k/d": {
+            "k/d2": {
                 "display": "Kill/Death Ratio Human",
                 "math": "%0 / %1",
                 "mathFields": [
