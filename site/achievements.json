@@ -1,8 +1,8 @@
 {
     "OneTime": {
-        "Achievement Name FROm Menu": {
-            "dbname": "Name in the player object",
-            "points": 50
+        "Hypixel's Pride": {
+            "dbname": "general_buy_golem",
+            "points": 100
         },
         "Achievement Name FROm Menu": {
             "dbname": "Name in the player object",
