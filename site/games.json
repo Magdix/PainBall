@@ -118,6 +118,14 @@
                     "kills",
                     "deaths"
                 ]
+            },
+            "shots/kill": {
+                "display": "Shots/Kill Ratio",
+                "math": "%0 / %1",
+                "mathFields": [
+                    "shots_fired",
+                    "kills"
+                ]
             }
         }
     },
@@ -195,6 +203,7 @@
             "kills": "Kills",
             "deaths": "Deaths",
             "wins": "Wins",
+            "trigger": "Trigger",
             "spacer": 1,
             "k/d": {
                 "display": "Kill/Death Ratio",
