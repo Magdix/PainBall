@@ -2,5 +2,9 @@
     "Achievement Name FROm Menu": {
         "dbname": "Name in the player object",
         "points": 50
+    },
+    "Achievement Name FROm Menu": {
+        "dbname": "Name in the player object",
+        "points": 50
     }
 }
