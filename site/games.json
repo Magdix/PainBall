@@ -193,6 +193,14 @@
                     "human_kills",
                     "human_deaths"
                 ]
+            },
+            "k/d2": {
+                "display": "Kill/Death Ratio Vampire",
+                "math": "%0 / %1",
+                "mathFields": [
+                    "vampire_kills",
+                    "vampire_deaths"
+                ]
             }
         }
     },
