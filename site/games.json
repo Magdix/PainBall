@@ -72,7 +72,15 @@
             "deaths": "Deaths",
             "killstreaks": "Killstreaks",
             "shots_fired": "Shots Fired",
-            "wins": "Wins"
+            "wins": "Wins",
+            "k/d": {
+                "display": "Kill/Death Ratio",
+                "math": "%1 / %2",
+                "mathFields": [
+                    "kills",
+                    "deaths"
+                ]
+            }
         }
     },
     "MCGO": {
